@@ -1,0 +1,1 @@
+The project is a countdown clock where there are 10 bullets fired every second. Those bullets hit various objects that are minutes. When a minute receives 60 bullets it arms a mine that collides with hours. When an hour is struck by 60 minute mines it becomes armed and collides with days. When days are struck by 24 armed hours they disintegrate
